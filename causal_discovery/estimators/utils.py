@@ -1,9 +1,3 @@
-# **
-# * ����
-# *
-# * @author 雁楚
-# * @edit 雁楚
-
 import csv
 import glob
 import math

@@ -1,9 +1,3 @@
-# **
-# * ����
-# *
-# * @author 雁楚
-# * @edit 雁楚
-
 import sys
 import numpy as np
 import pandas as pd

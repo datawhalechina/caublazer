@@ -1,9 +1,3 @@
-# **
-# * ����
-# *
-# * @author 雁楚
-# * @edit 雁楚
-
 # Datasets are generated according to Section 1 of [1].
 # References
 # [1] Pham, T.T. 2017. Large Scale Causal Inference with Machine Learning. Stanford.

@@ -1,7 +1,3 @@
-# **
-# * @author yunfeng
-# * @edit yunfeng
-
 import datetime
 import gc
 import time
